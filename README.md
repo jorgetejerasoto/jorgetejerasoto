@@ -1,12 +1,12 @@
-# About me
+# About me☝️
 
 Hi, I’m Jorge Tejera
 I am studying "DAW" first,
 which is a higher degree professional training in web application development.
-I am from Gran Canaria in Spain.
+I am from Gran Canaria in Canary Islands, Spain.
 I am interested in Developing and IT in general.
 
-# Studies
+# Studies 🗒️
 In this first year we learn for example:
 
 * Java.
@@ -15,11 +15,13 @@ In this first year we learn for example:
 * Git.
 * XML.
 * MySQL.
-I was studying mid-level vocational training in systems and networks whereI learn about:
+  
+Before that, I was studying mid-level vocational training in systems and networks where for example, I learn about:
  * Linux and Windows (client and server)
  * Hardware maintenance
  * Network configurations
  * I bit of cibersecurity
+   
 That was two year, and we finish with practices in a enterprise. After I finish that, I decide to join learning web developing.
 
 **I would like to continue learning more every day and continue training as a developer.**
